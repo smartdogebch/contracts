@@ -23,7 +23,7 @@
  *    SmartDoge token features:
  *    5% fee on each tx, distributed to all holders
  *    5% fee on each tx, added to the liquidity pool
- *    30% of supply is burned at start
+ *    68% of supply is burned at start
  *
  *
  */
